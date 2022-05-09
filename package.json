@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "contentful": "^9.1.28",
+    "swiper": "^8.1.4"
+  }
+}
